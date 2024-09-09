@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://milanhbs.github.io/vladimir/sitemap.xml
+Sitemap: https://vladimir.sobota.gdn/sitemap.xml
